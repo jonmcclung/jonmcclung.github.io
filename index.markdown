@@ -5,4 +5,4 @@
 layout: default
 ---
 
-Hey
+This site is a work in progress.

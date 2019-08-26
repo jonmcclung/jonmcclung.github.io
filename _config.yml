@@ -32,7 +32,7 @@ linkedin_username: jon-mcclung-28475a104
 stackoverflow_username: jonmcclung
 
 # Build settings
-theme: jekyll-theme-startbootstrap-agency
+theme: minima
 plugins:
   - jekyll-feed
 
