@@ -12,6 +12,6 @@ Following are some quotes from current and former colleagues of mine:
 <div style="margin-left: 5%; margin-right: 5%">
 {% for quote in site.data.quotes %}
   <p><q>{{ quote.text }}</q></p>
-  <footer style="margin-left: 5%"><p>-- {{ quote.author }}</p></footer>
+  <footer style="margin-left: 5%"><p>&mdash; {{ quote.author }}</p></footer>
 {% endfor %}
 </div>
